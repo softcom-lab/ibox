@@ -42,3 +42,10 @@ Note
 ----------------------------------------
 1. In order to simplify the function, all the files will be sync-ed to the root folder in your Google Drive.
 2. Only the first-level files will be monitored in your local folder. Sub-directories will not be monitored.
+3. The project has been configured to use JDK 7. If you use other versions installed, please modify the pom.xml file. However, JDK 7+ (or 8) is recommended.
+
+Resources
+----------------------------------------
+To learn the core technique in this program, please read:
+1. Watching a Directory for Changes. http://docs.oracle.com/javase/tutorial/essential/io/notification.html
+2. Quickstart: Run a Drive App in Java. https://developers.google.com/drive/web/quickstart/quickstart-java
