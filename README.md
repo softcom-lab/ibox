@@ -1,6 +1,3 @@
-cs585
-=====
-
 Overview
 --------
 
@@ -46,7 +43,7 @@ Note
 
 Resources
 ----------------------------------------
-To learn the core technique in this program, please read:
+To learn the core techniques used in this program, please read:
 
 1. Watching a Directory for Changes. http://docs.oracle.com/javase/tutorial/essential/io/notification.html
 2. Quickstart: Run a Drive App in Java. https://developers.google.com/drive/web/quickstart/quickstart-java
