@@ -26,7 +26,7 @@ Building the Project for the First Time
 Configure Google Drive API Credential
 ----------------------------------------
 
-1. Please follow the instructions to setup the Google account credential at: `https://developers.google.com/drive/web/quickstart/quickstart-java#step_1_enable_the_drive_api`
+1. Please follow the instructions to setup the Google account credential at: `https://developers.google.com/drive/v3/web/quickstart/java#step_1_turn_on_the_api_name`
 2. When creating the Client ID, choose: "OAuth Create new Client Id" -> "Installed application" (Other)
 3. Copy and paste the CLIENT ID and CLIENT SECRET in `GoogleDriveServiceProvider.java`
 
