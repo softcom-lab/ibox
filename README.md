@@ -3,7 +3,7 @@ Overview
 
 A simple version of the Google Drive client written in Java.
 
-It applies the Google Drive Java API (https://developers.google.com/drive/web/quickstart/quickstart-java).
+It applies the Google Drive Java API (https://developers.google.com/drive/v3/web/quickstart/java).
 
 Environment Setup
 -----------------
